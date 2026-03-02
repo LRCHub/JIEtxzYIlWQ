@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Elle Teresa - Bubble [Official Music Video]",
+  "base_artist": "Elle Teresa",
+  "createdAt": "2026-03-02T07:44:41.241520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DJ CHARI & DJ TATSUKI - GOKU VIBES feat. Tohji, Elle Teresa, UNEDUCATED KID & Futuristic Swaver",
+      "artist": "AIR WAVES MUSIC",
+      "has_synced": true,
+      "path": "select/01_DJ_CHARI_&_DJ_TATSUKI_-_GOKU_VIBES_feat._Tohji,_Elle_Teresa,_UNEDUCATED_KID_&_Fu_AIR_WAVES_MUSIC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "goku vibes (feat. tohji, elle teresa, uneducated kid & futuristic swaver)",
+      "artist": "dj chari, dj tatsuki, tohji, elle teresa",
+      "has_synced": true,
+      "path": "select/02_goku_vibes_(feat._tohji,_elle_teresa,_uneducated_kid_&_futuristic_swaver)_dj_chari,_dj_tatsuki,_tohji,_elle_teresa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Woo Wee (feat. Elle Teresa)",
+      "artist": "gummyboy",
+      "has_synced": true,
+      "path": "select/03_Woo_Wee_(feat._Elle_Teresa)_gummyboy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BANANA BOAT (feat. Elle Teresa)",
+      "artist": "Nene",
+      "has_synced": false,
+      "path": "select/04_BANANA_BOAT_(feat._Elle_Teresa)_Nene.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GOKU VIBES (feat. Tohji, Elle Teresa, UNEDUCATED KID & Futuristic Swaver)",
+      "artist": "DJ CHARI, DJ TATSUKI, Tohji, Elle Teresa, UNEDUCATED KID, Futuristic Swaver",
+      "has_synced": false,
+      "path": "select/05_GOKU_VIBES_(feat._Tohji,_Elle_Teresa,_UNEDUCATED_KID_&_Futuristic_Swaver)_DJ_CHARI,_DJ_TATSUKI,_Tohji,_Elle_Teresa,_UNEDUCATED_KID,_Futuristic_Swaver.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bubble",
+      "artist": "Elle Teresa",
+      "has_synced": false,
+      "path": "select/pl_01_Bubble_Elle_Teresa.txt"
+    }
+  ]
+}
